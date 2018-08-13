@@ -1,0 +1,17 @@
+body{
+    padding: 50px;
+    font-family: sans-serif;
+}
+
+#container{
+    display: flex;
+    justify-content: flex;
+}
+
+#box{
+    display: flex;
+    width: 500px;
+    height: auto;
+    border: 2px solid #317ebe;
+    justify-content: center;
+}
